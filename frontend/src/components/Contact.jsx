@@ -42,15 +42,15 @@ const contact = () => {
         <div className="banner">
           <div className="item">
             <h4>Address</h4>
-            <p>Any where, Any City, 4521</p>
+            <p>NIMS University, Jaipur, 303121</p>
           </div>
           <div className="item">
             <h4>Call Us</h4>
-            <p>Call Us: +92-321-1111111</p>
+            <p>Call Us: +91-777-8888-666</p>
           </div>
           <div className="item">
             <h4>Mail Us</h4>
-            <p>zk@gmail.com</p>
+            <p>shivam@gmail.com</p>
           </div>
         </div>
         <div className="banner">
