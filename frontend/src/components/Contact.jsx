@@ -50,7 +50,7 @@ const contact = () => {
           </div>
           <div className="item">
             <h4>Mail Us</h4>
-            <p>shivam@gmail.com</p>
+            <p>support@echoplanner.com</p>
           </div>
         </div>
         <div className="banner">

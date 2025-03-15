@@ -10,7 +10,7 @@ const Services = () => {
     },
     {
       id: 2,
-      url: "/anniversary.jpg",
+      url: "/Anniversary.jpg",
       title: "Anniversary Planning",
     },
     {
@@ -20,7 +20,7 @@ const Services = () => {
     },
     {
       id: 4,
-      url: "/gamenight.jpg",
+      url: "/gamenight1.jpg",
       title: "Game Night Planning",
     },
     {
@@ -30,7 +30,7 @@ const Services = () => {
     },
     {
       id: 6,
-      url: "/wedding.jpg",
+      url: "/wedding1.jpg",
       title: "Wedding Planning",
     },
   ];

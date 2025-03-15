@@ -6,17 +6,8 @@ const About = () => {
       <h4>Events</h4>
       <h2>ABOUT</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis
-        voluptas provident animi corrupti dolor, ipsum deleniti perferendis
-        veniam neque labore enim odio ratione. Ad commodi rem corporis soluta
-        sed reprehenderit a quasi nihil, odit aperiam exercitationem? Suscipit
-        rerum quibusdam inventore atque veritatis accusantium excepturi,
-        molestias optio perferendis aliquam harum, amet dolore! Animi
-        consequuntur officiis modi eius cumque reiciendis harum ipsum
-        praesentium numquam fugit? Consequatur eveniet recusandae harum hic. Eum
-        illo praesentium optio accusantium, hic quibusdam delectus voluptatem
-        qui a officiis dolorum minima cum illum culpa doloremque quia quidem aut
-        sed laudantium nam repudiandae sequi similique! Esse natus at quas?
+      Welcome to EchoPlanner, your all-in-one event management solution. We’re here to revolutionize the way you plan, manage, and execute events of any scale. Whether it’s an intimate gathering, a large festival, our platform is designed to make your event planning experience smoother, faster, and more efficient. Get Started Today! Join the thousands of event planners who trust EchoPlanner to bring their events to life. Start planning your next event with us!. Feel free to engage with EchoPlanner if you any types of events planning. With EchoPlanner, managing every detail of your event has never been simpler. From the initial planning stages to the final wrap-up, our app helps you stay organized and in control every step of the way.  
+      
       </p>
     </section>
   )

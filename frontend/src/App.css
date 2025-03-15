@@ -335,6 +335,7 @@ footer .banner .tag div input {
   border-radius: 8px;
   padding: 6px;
   background: transparent;
+  color: #fff;
   border: 1px solid #fff7ea;
 }
 footer .banner .tag div input:focus {
